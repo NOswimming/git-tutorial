@@ -2,3 +2,5 @@
 
 
 print 'Hello, world!'
+
+print 'A change occured...'
